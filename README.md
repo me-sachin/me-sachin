@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Kummar Sharma</h1>
+<h1 align="center">Hi 👋, I'm Sachin Kumar Sharma</h1>
 <h3 align="center">A passionate Learner</h3>
 
 - 🌱 I’m currently learning **Andriod Development/Ethical Hacking**
