@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **i.sachin950930@gmail.com**
 
-- ⚡ Fun fact **i am enough the way i am !!!**
+- ⚡ Fun fact **i am enough the way i am !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
