@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar Sharma</h1>
 <h3 align="center">A passionate Learner</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=me-sachin&label=Profile%20views&color=0e75b6&style=flat" alt="Sachin" /> </p>
+
 - 🌱 I’m currently learning **Andriod Development/Ethical Hacking**
 
 - 💬 Ask me about **Java/C++/Data structures and Algo**
