@@ -44,6 +44,7 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science , from Cha
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=me-sachin&" alt="Sachin" /></p>
-<p align="center">
-  <img src="https://github.com/me-sachin/me-sachin/blob/main/snake.yml" alt="snake"></center>
-</p>
+
+# Snake eating my contribution graph
+
+![snake gif](https://github.com/me-sachin/me-sachin/blob/output/github-contribution-grid-snake.gif)
