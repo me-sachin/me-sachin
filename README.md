@@ -39,5 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=me-sachin&" alt="Sachin" /></p>
 <p align="center">
-  <img src="https://github.com/me-sachin/me-sachin/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/me-sachin/me-sachin/blob/main/snake.yml" alt="snake"></center>
 </p>
