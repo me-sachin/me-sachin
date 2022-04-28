@@ -2,6 +2,13 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Sachin Kumar Sharma</h1>
+         
+ <h5 align="center">
+I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies with a specialization of AIML, from UPES  Dehradun. I am a Data Science enthusiast, web developer, and Photographer. 
+A 3rd-year student pursuing Bachelors in Computer science studies with a specialization of AIML, from UPES Dehradun. I am a Data Science enthusiast, Web developer, and a Photographer. 
+</h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
+<p>
 <h3 align="center">A passionate Learner</h3>
 
 - 🌱 I’m currently learning **Andriod Development/Ethical Hacking**
