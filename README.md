@@ -31,7 +31,6 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science , from Cha
 
 <p align="center">
   <a href="www.youtube.com/c/SavageProgrammer" target="_blank"><img src="https://github.com/KushalVijay/KushalVijay/blob/main/finallogo1.jpg" height="200" width="220"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=KushalVijay&show_icons=true" alt="KushalVijay">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=me-sachin&show_icons=true&locale=en&layout=compact" alt="Sachin" /></p>
