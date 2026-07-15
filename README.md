@@ -14,7 +14,7 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science, from Chan
 
 - 💬 Ask me about **Java/C++/Data structures and Algo**
 
-- 📫 How to reach me **i.sachin950930@gmail.com**
+- 📫 How to reach me **1914380.cse.coe@gmail.com**
 
 - ⚡ Fun fact **when in doubt paddle it out**
 
