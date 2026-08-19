@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin-sharma&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=me-sachin&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-2E9EF7?style=flat&logo=briefcase&logoColor=white" alt="experience" />
   <img src="https://img.shields.io/badge/Open%20to-SDET%20%2F%20Automation%20Roles-success?style=flat&logo=target&logoColor=white" alt="open to work" />
 </p>
@@ -57,19 +57,17 @@ I'm a **QA Automation Engineer** with **3+ years of experience** building test a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sachin-sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sachin's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-sharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=me-sachin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sachin's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-sachin&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-sharma&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=me-sachin&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-sharma&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=me-sachin&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
-
-> ⚠️ Swap `sachin-sharma` above for your real GitHub username in each widget URL so the stats actually load — your old README mixed several different usernames, so double-check which one is really yours.
 
 ---
 
