@@ -54,19 +54,67 @@ I'm a **QA Automation Engineer** with **3+ years of experience** building test a
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=me-sachin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sachin's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-sachin&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=me-sachin&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=me-sachin&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
+---
+
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=me-sachin&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+  <img src="https://raw.githubusercontent.com/me-sachin/me-sachin/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
+> Generates automatically from your commit history once the snake workflow (below) is set up — no manual updates needed.
+
+<details>
+<summary>⚙️ One-time setup for the snake animation</summary>
+
+Add this GitHub Actions workflow at `.github/workflows/snake.yml` in your `me-sachin/me-sachin` repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: me-sachin
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+It runs daily and pushes the generated SVG to an `output` branch — no external service dependency, so it won't randomly break like the stats widgets.
+</details>
+
+---
+
+### 🔥 Currently Exploring (Trending in QA/SDET right now)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI--Assisted%20Testing-black?style=for-the-badge&logo=openai&logoColor=white" alt="AI testing"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
+  <img src="https://img.shields.io/badge/Shift--Left%20Testing-blue?style=for-the-badge" alt="shift left"/>
+  <img src="https://img.shields.io/badge/API%20Contract%20Testing-orange?style=for-the-badge" alt="contract testing"/>
+  <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="cicd"/>
 </p>
 
 ---
