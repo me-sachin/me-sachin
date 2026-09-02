@@ -15,7 +15,7 @@
 
 ### 🎯 About Me
 
-I'm a **QA Automation Engineer** with **3+ years of experience** building test automation frameworks from scratch and hunting down bugs before they ever reach production. Currently at **Alert Enterprise**, I own end-to-end UI and API test coverage for enterprise physical-security and identity platforms.
+I'm a **QA Automation Engineer** with **3.5+ years of experience** building test automation frameworks from scratch and hunting down bugs before they ever reach production. Currently at **Alert Enterprise**, I own end-to-end UI and API test coverage for enterprise physical-security and identity platforms.
 
 - 🔭 Currently automating **300+ regression scenarios** across UI, API, and database layers
 - 🛠️ Building and maintaining **Selenium/Java** and **Playwright** frameworks with clean POM architecture
